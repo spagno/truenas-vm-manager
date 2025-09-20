@@ -1,0 +1,20 @@
+{
+    "name": null,
+    "vcpus": 1,
+    "cores": null,
+    "threads": null,
+    "cpu_mode": "HOST-PASSTHROUGH",
+    "enable_cpu_topology_extension": false,
+    "pin_vcpus": false,
+    "suspend_on_snapshot": false,
+    "trusted_platform_module": false,
+    "memory": null,
+    "hyperv_enlightenments": false,
+    "bootloader": "UEFI",
+    "autostart": true,
+    "hide_from_msr": false,
+    "ensure_display_device": true,
+    "time": "LOCAL",
+    "shutdown_timeout": 90,
+    "enable_secure_boot": true
+}

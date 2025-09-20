@@ -1,0 +1,8 @@
+{
+    "vm": null,
+    "attributes": {
+        "dtype": "CDROM",
+        "path": "/mnt/storage/metal-amd64.iso"
+    },
+    "order": 1003
+}

@@ -1,0 +1,12 @@
+{
+    "vm": null,
+    "attributes": {
+        "dtype": "DISPLAY",
+        "type": "SPICE",
+        "resolution": "1024x768",
+        "bind": "192.168.69.2",
+        "port": null,
+        "password": null
+    },
+    "order": 1002
+}

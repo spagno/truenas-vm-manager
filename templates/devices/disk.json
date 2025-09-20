@@ -1,0 +1,10 @@
+{
+    "vm": null,
+    "attributes": {
+        "dtype": "DISK",
+        "type": "VIRTIO",
+        "create_zvol": true,
+        "zvol_name": null,
+        "zvol_volsize": null
+    }
+}

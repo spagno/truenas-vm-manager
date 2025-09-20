@@ -1,0 +1,23 @@
+storage:
+  pool_path: storage/VMs
+  cdrom_path: "/mnt/storage/metal-amd64.iso"
+
+controlplane:
+  count: 1
+  memory: 16384
+  cpu: 8
+  disk:
+    system: 15
+  network:
+    system: br68
+
+worker:
+  count: 3
+  memory: 32768
+  cpu: 12
+  disk:
+    system: 15
+    storage: 600
+  network:
+    system: br68
+    storage: br110

@@ -1,0 +1,4 @@
+# Core dependencies
+git+https://github.com/truenas/api_client.git
+python-dotenv>=1.0.0
+PyYAML>=6.0.1
